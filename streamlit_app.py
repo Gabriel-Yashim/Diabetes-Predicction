@@ -1,8 +1,6 @@
-
 import streamlit as st
 import pandas as pd
 import joblib
-import pickle
 
 # Load saved model and features
 model = joblib.load('Diabetes_Subtype_RF_Model.pkl')
