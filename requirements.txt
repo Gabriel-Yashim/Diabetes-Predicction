@@ -1,6 +1,6 @@
 setuptools
-numpy==2.0.2
-pandas==2.2.2
-streamlit==1.48.1
-scikit-learn==1.6.1
-joblib==1.5.3
+numpy
+pandas
+streamlit
+scikit-learn
+joblib
