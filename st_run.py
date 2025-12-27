@@ -1,0 +1,1 @@
+streamlit run "\Users\Gabriel_Yashim\Desktop\DiabetesProjects\streamlit_app.py"
